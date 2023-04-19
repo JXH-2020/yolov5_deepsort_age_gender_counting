@@ -1,7 +1,7 @@
 ## Demo演示：
 https://www.bilibili.com/video/BV1Wd4y1B7hT/?vd_source=778fac86a8913be5606b7d7be8077c8f
 ## 模型说明：
-### 头部检测模型 (基于yolov5): 
+### 头部检测模型 [基于Yolov5]: 
 Head_Detect_best.onnx 
 
 ### 性别和年龄识别模型:
